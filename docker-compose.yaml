@@ -1,3 +1,4 @@
+#docker-compose file to enable prometheus and grafana to pull its images and enable it
 services:
   prometheus:
     image: prom/prometheus

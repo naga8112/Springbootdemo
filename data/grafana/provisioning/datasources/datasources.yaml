@@ -1,3 +1,4 @@
+#grafana config file
 apiVersion: 1
 datasources:
   - name: Prometheus
